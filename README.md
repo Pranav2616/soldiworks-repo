@@ -1,0 +1,2 @@
+# soldiworks-repo
+solidworkstools
